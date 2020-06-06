@@ -1,6 +1,6 @@
 # RE3En2D
  
-![Dario MirandYT](https://i.imgur.com/LXRpgTH.jpg)
+![Dario MirandYT](https://i.imgur.com/K3f6WWZ.jpg)
  Chris Desarollador  [canal YouTube](https://www.youtube.com/channel/UCnnPcNv7kxrhLFwukiwNM1g) y 
 Los Assets son de la lista de reproduccion que se esta subiendo [Como Crear Resident Evil 3 En 2D](https://www.youtube.com/playlist?list=PLX123YkurzGSzg5kGystIlJFu98kn7E6r)
  
