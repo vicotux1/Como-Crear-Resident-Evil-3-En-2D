@@ -1,6 +1,6 @@
 # RE3En2D
  "Como Crear Resident Evil 3 En 2D" 
-Chris Desarrollador (https://www.youtube.com/channel/UCnnPcNv7kxrhLFwukiwNM1g) y DarioMirandaYT (www.youtube.com/eltuga24)
+Chris Desarrollador (https://www.youtube.com/channel/UCnnPcNv7kxrhLFwukiwNM1g) y DarioMirandaYT ![Dario MirandYT]([img]https://i.imgur.com/LXRpgTH.jpg[/img])
 Los Assets son de la lista de reproduccion que se esta subiendo: 
 https://www.youtube.com/playlist?list=PLX123YkurzGSzg5kGystIlJFu98kn7E6r
  
