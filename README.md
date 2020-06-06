@@ -1,6 +1,6 @@
 # RE3En2D
  
- DarioMirandaYT ![Dario MirandYT](https://i.imgur.com/LXRpgTH.jpg)
+![Dario MirandYT](https://i.imgur.com/LXRpgTH.jpg)
  
  "Como Crear Resident Evil 3 En 2D" 
 Chris Desarrollador (https://www.youtube.com/channel/UCnnPcNv7kxrhLFwukiwNM1g) y 
