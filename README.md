@@ -9,4 +9,5 @@ Si te gustaria crear tu primer juego en 2D en estos tutoriales aprenderas todo l
 
 06/06/2020 Aplicados los cambios al video #5 del curso
 
-06/06/2020 "nivel" correguido.Backgrund tileado y coliciones limitantes.
+### 06/06/2020 "nivel" correguido. 
+Background tileado y coliciones limitantes.
