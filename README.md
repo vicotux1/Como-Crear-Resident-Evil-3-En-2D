@@ -8,6 +8,5 @@
 Si te gustaria crear tu primer juego en 2D en estos tutoriales aprenderas todo lo necesario. Lo haremos de una forma Especial, crearemos Resident Evil 3 En 2D !!  Facil Y Rapido !!
 
 ##### 06/06/2020 Aplicados los cambios al video #5 del curso
-###### Posición del arma correguida. Creado sistema de layers para prioridad de la camar.
-#### 06/06/2020 "nivel" correguido. 
-###### Background tileado y coliciones limitantes.
+###### .Posición del arma correguida. Creado sistema de layers para prioridad de la camar.
+###### .Escena "nivel" Background tileado y coliciones limitantes.
